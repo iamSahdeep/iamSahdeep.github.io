@@ -59,10 +59,6 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `npm install`
 - Run `gulp`
 
-## Questions
-
-Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
-
 ## License
 
 This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
