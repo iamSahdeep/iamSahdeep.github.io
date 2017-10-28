@@ -13,7 +13,7 @@ The Theme features:
 - BrowserSync
 - Font Awesome and Devicon icons
 - Google Analytics
-- Info Customization
+- Information  Customization
 
 ## Basic Setup
 
