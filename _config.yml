@@ -16,6 +16,6 @@ gplus_username:  102836403719188208803
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-110663889-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
