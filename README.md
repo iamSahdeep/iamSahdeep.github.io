@@ -65,6 +65,6 @@ This theme is free and open source software, distributed under the The MIT Licen
 
 ## Credits
 
-This theme was partially designed with the inspiration from these fine folks
+This theme was partially designed with the inspiration from these two fine folks
 - [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
 - [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
